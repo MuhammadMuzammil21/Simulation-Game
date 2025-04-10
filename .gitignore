@@ -1,0 +1,10 @@
+# .gitignore
+.vs/
+Debug/
+Release/
+*.exe
+*.obj
+*.user
+*.VC.db
+*.suo
+*.aps
