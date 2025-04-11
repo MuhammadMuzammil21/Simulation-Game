@@ -85,8 +85,6 @@ For an architectural overview of the classes and their relationships, see the di
 
 ![Class Diagram](./Class%20Diagram.jpg)
 
-*(Make sure `Class Diagram.jpg` is placed in the same folder as this README or adjust the path accordingly.)*
-
 ---
 
 ## Installation & Setup
@@ -128,7 +126,7 @@ For an architectural overview of the classes and their relationships, see the di
 ---
 
 ## How to Play
-(You can play the compiled version on windows [here](/Thrill%20Of%20Decision/SFML%20OOP%20Project.exe))
+(You can play the game on windows by running the compiled executable in [this](/Thrill%20Of%20Decision) folder.)
 - **Starting the Game:**  
   When the game starts, you'll be greeted with a title screen and introductory story text. Follow the on-screen prompts to enter your name and age.
 - **Main Menu:**  
